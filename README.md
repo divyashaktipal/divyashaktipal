@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Divya Shakti Pal!
+# 👋 Hi there, I'm Divyashakti Pal!
 
 Welcome to my GitHub profile! I'm passionate about building impactful software, exploring new technologies, and sharing knowledge with the developer community. Here you'll find some of my favorite projects, code experiments, and contributions to open source.
 
